@@ -1,11 +1,11 @@
 :root {
     --text-color: #000000;
-    --card-front-color: #5df4ff;
+    --card-front-color: #0996a0;
     --card-back-color: #0004ff;
 }
 
 body {
-    background: url();
+    background: url(img/Fundo.jpg);
     font-family: Bai Jamjuree;
 }
 
@@ -55,6 +55,7 @@ body {
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
     font-weight: 500;
+    font-weight: bold;
 }
 
 .cartao__conteudo__resposta p {

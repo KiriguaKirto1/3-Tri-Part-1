@@ -1,6 +1,6 @@
 criaCartao(
     'Programação',
-    'Qual a linguagem de programação utilizada nessa página',
+    'Qual a linguagem de programação utilizada nessa página?',
     'Utilizamos HTML e CSS'
 )
 
@@ -24,8 +24,8 @@ criaCartao(
 
 criaCartao(
     'Matemática',
-    'Como se fala Página em inglês?',
-    'Página em Inglês é Page'
+    'Qual a raiz de 144?',
+    'A raiz de 144 é 12'
 )
 
 criaCartao(
